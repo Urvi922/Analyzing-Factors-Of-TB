@@ -1,2 +1,1 @@
-# Analyzing-Factors-Of-TB
-Beginner's Project
+Selection of the most effective factors of tuberculosis through preprocessing of data and analyzing it's effects.
